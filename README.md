@@ -139,3 +139,4 @@ $ make testacc TESTARGS="-run=TestAccResourceVmcSddc_basic"
 Copyright 2019 VMware, Inc.
 
 The Terraform provider for VMware Cloud on AWS is available under [MPL2.0 license](https://github.com/vmware/terraform-provider-vmc/blob/master/LICENSE).
+# terraform-vmc-ddc-group
